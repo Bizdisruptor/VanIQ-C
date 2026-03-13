@@ -1,6 +1,8 @@
 {
   "id": "transit_148_hr",
+  "van_id": "transit_148_hr",
   "label": "Ford Transit 148 High Roof",
+  "name": "Ford Transit 148 High Roof",
   "manufacturer": "Ford",
   "years": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
   "source": {
@@ -83,19 +85,19 @@
         { "key": "SMZ", "label": "Safe Mount Zone" }
       ]
     },
-    "driver_elev": {
+    "ceiling": {
+      "asset": "/blueprints/transit_148_hr/front_elev.svg"
+    },
+    "driver": {
       "asset": "/blueprints/transit_148_hr/driver_elev.svg",
       "usable_length": 126
     },
-    "passenger_elev": {
+    "passenger": {
       "asset": "/blueprints/transit_148_hr/passenger_elev.svg",
       "usable_length": 75
     },
-    "rear_elev": {
+    "rear": {
       "asset": "/blueprints/transit_148_hr/rear_elev.svg"
-    },
-    "front_elev": {
-      "asset": "/blueprints/transit_148_hr/front_elev.svg"
     }
   }
 }
