@@ -86,7 +86,7 @@
       ]
     },
     "ceiling": {
-      "asset": "/blueprints/transit_148_hr/front_elev.svg"
+      "asset": "/blueprints/transit_148_hr/ceiling.svg"
     },
     "driver": {
       "asset": "/blueprints/transit_148_hr/driver_elev.svg",
